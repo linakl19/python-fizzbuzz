@@ -1,4 +1,4 @@
-# Python FizzBuzz - Lina's Version
+# Python FizzBuzz - Lina's Version Test
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
